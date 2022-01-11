@@ -1,0 +1,32 @@
+/*------------seccion de etiquetas----------------*/
+body {
+  background-color: #2B2E4A;
+}
+
+h1 {
+  color: #E84545;
+  font-style: italic;
+  font-size: 100px;
+}
+
+img:hover{
+  background-color: green;
+}
+
+p {
+  font-style: oblique;
+  font-size: 50px;
+
+  color: #DCD6F7;
+}
+/*----------------------seccion de clases----------------*/
+.tocino{
+  background-color:red;
+}
+.hamburguesa{background-color: yellow;
+  border-radius: 100%;
+}
+/*-------------------seccion de id-------------------------*/
+#bb {
+  color: blue;
+}
